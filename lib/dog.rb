@@ -12,6 +12,5 @@ end
  
 lassie = Dog.new
 lassie.name = "Lassie"
- binding.pry 
 puts lassie.name
  
